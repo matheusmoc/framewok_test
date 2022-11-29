@@ -3,7 +3,7 @@
 
 Clone o projeto:
 
-`git clone git@github.com:viniciuswebdev/curso-php-phpunit.git`
+`https://github.com/matheusmoc/framewok_test.git`
 
 #### Parte 1
 
